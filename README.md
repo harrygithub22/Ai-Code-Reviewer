@@ -281,16 +281,6 @@ We welcome contributions! Please follow these steps:
 - Ensure all tests pass
 - Write clear commit messages
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- 📧 **Email**: sakshamsinghrathore1304@gmail.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/sakshamsinghrathore/AI-Code-Reviewer/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/sakshamsinghrathore/AI-Code-Reviewer/discussions)
-
 ## 🙏 Acknowledgments
 
 - **Google Gemini AI** for providing the AI model
@@ -303,5 +293,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <div align="center">
   <strong>Made with ❤️ by developers, for developers</strong><br>
-  <em>Created and maintained by sakshamsinghrathore1304@gmail.com</em>
 </div>
